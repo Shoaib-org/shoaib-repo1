@@ -4,7 +4,7 @@ my mom's name is Nikhat Sultana
 my father's name is Shaik Mahboob Subhani and he is a good man
 lo...
 this is the file deploy.sh
-i have updated this file
+i have updated this file and i have also added the adder
 
 
 
