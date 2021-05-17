@@ -10,7 +10,7 @@ the biggest snake species is king cobra
 
 The largest animal in the world is the "Blue Whale"
 
-
+The largest land animal on earth is the African Elephant
 
 
 
