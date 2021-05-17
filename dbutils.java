@@ -1,3 +1,4 @@
-Hello my name is shoaib
-I would love to become a devops engineer
-
+Hello 
+I am Shoaib
+I would love to and aspire to become a successful DevOps Engineer.
+nd i have updated this file
